@@ -25,6 +25,7 @@ I wanted to learn more about Network programming in C. This project is a precurs
 ### Things I learned
   * Using the function `select()` to monitor sockets is way eaiser than creating a thread for each new client :)
   * I learned how to properly create sockets and connect sockets.
-  * I learned more about error checking and making sure your code doesn't blow up.
+  * I learned how to manage connections.
+  * I learned more about error checking and making sure my code doesn't blow up.
   * I learned that it is alright to fail over and over again. All that matters is that you stick with it.
   * I have gained a new appreciation for the C programming language.
