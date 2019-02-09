@@ -1,5 +1,5 @@
 /*
-This code is pretty mutch  a copy of Briaj Jorgensens server program in
+This code is pretty mutch  a copy of Brian Jorgensens server program in
     "Beej's Guide to Network Programming Using Internet Sockets"
 */
 #include <stdio.h>
